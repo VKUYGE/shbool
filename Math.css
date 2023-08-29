@@ -1,0 +1,69 @@
+.title
+{
+
+  
+  text-align: center;
+  font-size: 30px;
+  font-family: arial;
+  font-weight: bold;
+}
+.level
+{
+  display: flex;
+  margin-left: 10px ;
+  list-style: none;
+
+}
+.lecon1
+{
+  margin-right: 200px;
+  
+  
+}
+.lecon2
+{
+  margin-right: 200px;
+  
+}
+.lecon3
+{
+  margin-right: 200px;
+  
+}
+/*********************Href********************/
+.preac
+{
+  text-decoration: none;
+  background-color: rgb(129, 129, 247);
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 10px;
+  padding-right: 10px;
+  border-radius: 5px;
+  color: black;
+
+}
+.deuxac
+{
+  text-decoration: none;
+  background-color: rgb(129, 129, 247);
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 10px;
+  padding-right: 10px;
+  border-radius: 5px;
+  color: black;
+
+}
+.troisac
+{
+  text-decoration: none;
+  background-color: rgb(129, 129, 247);
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 10px;
+  padding-right: 10px;
+  border-radius: 5px;
+  color: black;
+
+}
